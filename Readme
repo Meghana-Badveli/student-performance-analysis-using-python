@@ -1,6 +1,6 @@
-# 📊 Student Performance Analysis Using Python
+## Student Performance Analysis Using Python
 
-## 📌 Project Overview
+## Project Overview
 
 The **Student Performance Analysis** project focuses on analyzing students' academic performance and identifying factors associated with their scores in Mathematics, Reading, and Writing.
 
@@ -8,7 +8,7 @@ This project uses Python libraries to clean, process, analyze, and visualize stu
 
 The project includes two interactive-style analytical dashboards created using Matplotlib and Seaborn.
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Analyze students' academic performance in Mathematics, Reading, and Writing.
 - Calculate the overall average score of students.
@@ -19,7 +19,7 @@ The project includes two interactive-style analytical dashboards created using M
 - Analyze pass and fail counts using an overall score threshold of 50.
 - Create meaningful visualizations to understand student performance patterns.
 
-## 🛠️ Technologies & Tools Used
+## Technologies & Tools Used
 
 | Technology | Purpose |
 |---|---|
@@ -30,7 +30,7 @@ The project includes two interactive-style analytical dashboards created using M
 | Seaborn | Statistical visualization |
 | Google Colab / Jupyter Notebook | Development environment |
 
-## 📂 Dataset Description
+## Dataset Description
 
 The project uses a student performance dataset containing academic scores and student-related information.
 
@@ -59,7 +59,7 @@ The following data-cleaning operations were performed:
 6. Calculated the OverallScore using the average of Mathematics, Reading, and Writing scores.
 7. Created a Result column to classify students as Pass or Fail based on an overall score of 50.
 
-## 📈 Dashboard 1: Student Performance
+## Dashboard 1: Student Performance
 
 The first dashboard includes:
 
@@ -68,7 +68,7 @@ The first dashboard includes:
 - Overall Score by Gender – Comparison of average overall scores.
 - Study Hours vs Overall Score – Relationship between weekly study hours and average scores by gender.
 
-## 📊 Dashboard 2: Factors Associated with Student Scores
+## Dashboard 2: Factors Associated with Student Scores
 
 The second dashboard includes:
 
